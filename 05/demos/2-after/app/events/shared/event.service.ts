@@ -10,7 +10,7 @@ export class EventService {
 const EVENTS = [
     {
       id: 1,
-      name: 'Angular Connect',
+      nsame: 'Angular Connect',
       date: '9/26/2036',
       time: '10:00 am',
       price: 599.99,
